@@ -1,4 +1,4 @@
-setwd('/Users/rachnish/Documents/Stevens/FIN 620 Lectures/R Classes/All data')
+## setwd('/Users/rachnish/Documents/Stevens/FIN 620 Lectures') ##
 
 library(EIAdata)
 library(quantmod)
